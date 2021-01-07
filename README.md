@@ -6,7 +6,7 @@
 
 <p>欢迎大家关注 libo1004 的 CSDN 带你学深度学习、文本识别： </p>
 </br>
-<img src="https://img-blog.csdnimg.cn/20210107132207897.png" height="280" width="480" alt="libo-coder的博客" />
+<img src="https://img-blog.csdnimg.cn/20210107132207897.png" height="280" width="380" alt="libo-coder的博客" />
 
 <!--
 **xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
