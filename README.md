@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there, I am libo-coder..
+
+[CSDN博客小白](https://blog.csdn.net/libo1004)
+
+[![libo-coder's github stats](https://github-readme-stats.vercel.app/api?username=libo-coder&theme=vue&&hide=prs,contribs)](https://xiaosongshine.blog.csdn.net/)
+
+<p>欢迎大家关注 libo1004 的 CSDN 带你学深度学习、文本识别： </p>
+</br>
+<img src="https://img-blog.csdnimg.cn/20210107132207897.png" height="280" width="480" alt="libo-coder的博客" />
 
 <!--
-**libo-coder/libo-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaosongshine/xiaosongshine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
